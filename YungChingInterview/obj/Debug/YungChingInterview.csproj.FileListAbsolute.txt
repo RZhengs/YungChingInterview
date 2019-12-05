@@ -88,3 +88,4 @@ C:\My Project\YungChingInterview\YungChingInterview\obj\Debug\YungChingInterview
 C:\My Project\YungChingInterview\YungChingInterview\obj\Debug\YungChingInterview.csproj.CopyComplete
 C:\My Project\YungChingInterview\YungChingInterview\obj\Debug\YungChingInterview.dll
 C:\My Project\YungChingInterview\YungChingInterview\obj\Debug\YungChingInterview.pdb
+C:\My Project\YungChingInterview\YungChingInterview\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
